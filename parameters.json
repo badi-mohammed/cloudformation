@@ -1,0 +1,13 @@
+{
+"Parameters" : {
+    "KeyName": "badi-key-pair",
+
+    "ProjectName" : "baditest",
+    
+    "BusinessUnit" : "CTP",
+
+    "EndDate" : "01-10-2021",
+
+    "EnvType": "dev"
+  }
+}
